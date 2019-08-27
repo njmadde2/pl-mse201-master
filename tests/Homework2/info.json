@@ -1,0 +1,102 @@
+{
+    "allowAccess": [
+                    {
+                    "mode": "Public",
+                    "role": "TA"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":100,
+                    "startDate": "2016-09-15T00:00:01",
+                    "endDate": "2016-09-27T17:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":30,
+                    "startDate": "2016-09-15T00:00:01",
+                    "endDate": "2016-10-04T00:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "startDate": "2016-09-15T00:00:01",
+                    "endDate": "2016-12-14T00:00:01"
+                    }
+    ],
+    "number": 2,
+    "options": {
+        "allowPractice": false,
+        "maxScore": 50,
+        "questions": [
+                
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-iron-xray_a"
+
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-iron-xray_b"
+                      
+                },
+                {
+                    "initValue": 7,
+                    "maxScore": 7,
+                    "qid": "Homework2-iron-xray_c"
+                    
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-iron-xray_d"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-FCC-BCC-density_a"
+                      
+                },
+                {
+                    "initValue": 4,
+                    "maxScore": 4,
+                    "qid": "Homework2-FCC-BCC-density_b"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-argon-crystal_a"
+                    
+                },
+                {
+                    "initValue": 4,
+                    "maxScore": 4,
+                    "qid": "Homework2-argon-crystal_b"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-sodium-chloride-mandelung_a"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework2-sodium-chloride-mandelung_b"
+                      
+                }
+                      
+        ],
+        "text": "Be sure to read <a href=\"<% print(clientFile(\"Rules.pdf\")) %>\" target=\"_blank\">this</a>. A <a href=\"<% print(clientFile(\"Matlab.pdf\")) %>\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+    },
+    "set": "Homework",
+    "title": "Crystals",
+    "type": "Game"
+
+}

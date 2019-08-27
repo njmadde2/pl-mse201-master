@@ -1,0 +1,14 @@
+{
+    "uuid": "f3a3a989-21a3-4705-8303-1ec35e9e791b",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Argon-crystal_a",
+    "topic": "Argon-crystal",
+    "type": "Calculation"
+}

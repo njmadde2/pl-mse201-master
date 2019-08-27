@@ -1,0 +1,15 @@
+{
+    "uuid": "56cff3f4-047c-4789-bac7-e8b835d0bc8b",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html",
+        "diagram.png"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Eutectic_b",
+    "topic": "Eutectic-Phase-Diagrams", 
+    "type": "Calculation"
+}

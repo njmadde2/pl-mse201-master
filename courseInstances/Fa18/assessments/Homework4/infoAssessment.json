@@ -1,0 +1,87 @@
+{
+    "uuid": "41a8b101-6f4a-459a-8153-e14758633e30",
+    "type": "Homework",
+    "title": "Polymers, Phase Diagrams",
+    "set": "Homework",
+    "number": "4",
+    "multipleInstance": false,
+    "maxPoints": 35,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2018-11-06T17:00:01",
+            "startDate": "2018-10-30T00:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2018-11-13T00:00:01",
+            "startDate": "2018-10-30T00:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2018-10-30T00:00:01",
+            "mode": "Public",
+            "endDate": "2018-12-16T00:00:01"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework4-polymer-mw_a",
+                    "points": 2,
+                    "maxPoints": 2
+                },
+                {
+                    "id": "Homework4-polymer-mw_b",
+                    "points": 2,
+                    "maxPoints": 2
+                },
+                {
+                    "id": "Homework4-polymer-xtal_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework4-polymer-xtal_b",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework4-phases-in-equilibrium",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework4-eutectic_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework4-eutectic_b",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework4-eutectic_c",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework4-variance",
+                    "points": 5,
+                    "maxPoints": 5
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "05857a08-28d1-46c8-9f72-9ea6063f0435",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Variance",
+    "topic": "Gibbs-Phase-Rule", 
+    "type": "Calculation"
+}

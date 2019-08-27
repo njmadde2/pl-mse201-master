@@ -1,0 +1,14 @@
+{
+    "uuid": "b6d89ac3-188c-44f0-897d-5a91169a7b5d",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Bulb Gas Diffusion", 
+    "topic": "Gas Diffusion", 
+    "type": "Calculation"
+}

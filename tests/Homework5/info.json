@@ -1,0 +1,73 @@
+{
+    "allowAccess": [
+                    {
+                    "mode": "Public",
+                    "role": "TA"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":100,
+                    "startDate": "2016-12-01T17:00:01",
+                    "endDate": "2016-12-08T17:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":30,
+                    "startDate": "2016-12-01T00:00:01",
+                    "endDate": "2016-12-15T00:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "startDate": "2016-12-01T00:00:01",
+                    "endDate": "2016-12-16T00:00:01"
+                    }
+    ],
+    "number": 5,
+     "options": {
+        "allowPractice": false,
+        "maxScore": 30,
+        "questions": [
+                
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework5-clapeyron_a"
+
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework5-clapeyron_b"
+                      
+                },
+                {
+                    "initValue": 6,
+                    "maxScore": 6,
+                    "qid": "Homework5-mechanics_a"
+                    
+                },
+                {
+                    "initValue": 7,
+                    "maxScore": 7,
+                    "qid": "Homework5-mechanics_b"
+                      
+                },
+                {
+                    "initValue": 7,
+                    "maxScore": 7,
+                    "qid":"Homework5-mechanics_c"
+                      
+                }
+
+                      
+        ],
+        "text": "Be sure to read <a href=\"<% print(clientFile(\"Rules.pdf\")) %>\" target=\"_blank\">this</a>. A <a href=\"<% print(clientFile(\"Matlab.pdf\")) %>\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+    },
+    "set": "Homework",
+    "title": "Transformations, Mechanics",
+    "type": "Game"
+
+}

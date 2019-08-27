@@ -1,0 +1,22 @@
+{
+    "uuid": "c63602c3-75c4-4d98-a0cb-e1990a5e6ada",
+    "shortName": "Fa19",
+    "longName": "Fall 2019",
+    "userRoles": {
+        "dtrinkle@illinois.edu": "Instructor",
+        "schleife@illinois.edu": "Instructor",
+        "mwest@illinois.edu": "Instructor",
+        "cecilial@illinois.edu": "Instructor",
+	"sctang@illinois.edu": "Instructor",
+	"mshim@illinois.edu": "Instructor",
+        "rmaass@illinois.edu": "TA",
+        "lmdean2@illinois.edu": "TA",
+        "njmadde2@illinois.edu": "TA"
+    },
+    "allowAccess": [
+        {
+            "startDate": "2019-08-26T00:00:01",
+            "endDate": "2019-12-30T23:59:59"
+        }
+    ]
+}

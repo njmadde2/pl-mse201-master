@@ -1,0 +1,99 @@
+{
+    "allowAccess": [
+        {
+            "mode": "Public",
+            "role": "TA"
+        },
+        {
+	    "mode": "Public",
+            "role": "Student",
+	    "credit":100,
+            "startDate": "2016-09-01T00:00:01",
+	    "endDate": "2016-09-09T17:00:01"
+        },
+	{
+            "mode": "Public",
+            "role": "Student",
+	    "credit":30,
+            "startDate": "2016-09-01T00:00:01",
+	    "endDate": "2016-09-15T00:00:01"
+        },
+	{
+            "mode": "Public",
+            "role": "Student",
+            "startDate": "2016-09-01T00:00:01",
+	    "endDate": "2016-12-13T00:00:01"
+        }
+    ],
+    "number": 1,
+    "options": {
+        "allowPractice": false,
+        "maxScore": 55,
+        "questions": [
+            {
+                "initValue": 3,
+                "maxScore": 3,
+                "qid": "Homework1-Hydrogen-fuel-tanks_a"
+            },
+			{
+                "initValue": 3,
+                "maxScore": 3,
+                "qid": "Homework1-Hydrogen-fuel-tanks_b"
+            },
+			{
+                "initValue": 4,
+                "maxScore": 4,
+                "qid": "Homework1-Hydrogen-fuel-tanks_c"
+            },			
+            {
+                "initValue": 4,
+                "maxScore": 4,
+                "qid": "Homework1-Electron-levels_a"
+            },
+			{
+                "initValue": 3,
+                "maxScore": 3,
+                "qid": "Homework1-Electron-levels_b"
+            },
+			{
+                "initValue": 3,
+                "maxScore": 3,
+                "qid": "Homework1-Electron-levels_c"
+            },
+            {
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-Bonding_energy_a"
+            },
+			{
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-Bonding_energy_b"
+            },
+			{
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-Bonding_energy_c"
+            },
+			{
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-Bonding_energy_d"
+            },
+            {
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-London-dispersion_a"
+            },
+            {
+                "initValue": 5,
+                "maxScore": 5,
+                "qid": "Homework1-London-dispersion_b"
+            }
+        ],
+        "text": "Be sure to read <a href=\"<% print(clientFile(\"Rules.pdf\")) %>\" target=\"_blank\">this</a>. A <a href=\"<% print(clientFile(\"Matlab.pdf\")) %>\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+    },
+    "set": "Homework",
+    "title": "Intro, Bonding",
+    "type": "Game"
+}

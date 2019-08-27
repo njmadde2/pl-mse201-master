@@ -1,0 +1,14 @@
+{
+    "uuid": "5e094a04-d478-4513-9ffc-a50ac503ddca",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Polymer-Molecular-Weight_b",
+    "topic": "Polymer-Molecular-Weight", 
+    "type": "Calculation"
+}

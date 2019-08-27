@@ -1,0 +1,14 @@
+{
+    "uuid": "486b812a-e797-41e9-b446-e3e07e646391",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Interstitial Diffusion", 
+    "topic": "Interstitial Diffusion", 
+    "type": "Calculation"
+}

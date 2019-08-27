@@ -1,0 +1,84 @@
+{
+    "allowAccess": [
+                    {
+                    "mode": "Public",
+                    "role": "TA"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":100,
+                    "startDate": "2017-10-30T00:00:01",
+                    "endDate": "2011-11-07T17:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":30,
+                    "startDate": "2017-10-31T00:00:01",
+                    "endDate": "2017-11-14T00:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "startDate": "2017-10-31T00:00:01",
+                    "endDate": "2017-12-17T00:00:01"
+                    }
+    ],
+    "number": 3,
+    "options": {
+        "allowPractice": false,
+        "maxScore": 55,
+        "questions": [
+                
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework3-interstitial-diffusion"
+
+                },
+                {
+                    "initValue": 10,
+                    "maxScore": 10,
+                    "qid": "Homework3-bulb-gas-diffusion"
+                      
+                },
+                {
+                    "initValue": 10,
+                    "maxScore": 10,
+                    "qid": "Homework3-bottle-gas-diffusion_a"
+                    
+                },
+                {
+                    "initValue": 10,
+                    "maxScore": 10,
+                    "qid": "Homework3-bottle-gas-diffusion_b"
+                      
+                },
+                {
+                    "initValue": 10,
+                    "maxScore": 10,
+                    "qid": "Homework3-vacancy-enthalpy"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework3-vacancy-formation_a"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework3-vacancy-formation_b"
+                    
+                }
+                      
+        ],
+        "text": "Be sure to read <a href=\"<% print(clientFile(\"Rules.pdf\")) %>\" target=\"_blank\">this</a>. A <a href=\"<% print(clientFile(\"Matlab.pdf\")) %>\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+    },
+    "set": "Homework",
+    "title": "Defects, Diffusion",
+    "type": "Game"
+
+}

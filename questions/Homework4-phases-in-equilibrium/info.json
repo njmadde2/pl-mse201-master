@@ -1,0 +1,14 @@
+{
+    "uuid": "1efbe435-1313-4d13-a876-34d71fd007f6",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Phases-in-equilibrium",
+    "topic": "Gibbs-Phase-Rule", 
+    "type": "Calculation"
+}

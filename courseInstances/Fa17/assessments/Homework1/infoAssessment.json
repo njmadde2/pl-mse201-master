@@ -1,0 +1,112 @@
+{
+    "uuid": "1c22874e-184a-4cb4-930d-b463d48c0b8f",
+    "type": "Homework",
+    "title": "Intro, Bonding",
+    "set": "Homework",
+    "number": "1",
+    "multipleInstance": false,
+    "maxPoints": 60,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2017-09-18T17:00:01",
+            "startDate": "2017-09-11T00:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2017-09-25T00:00:01",
+            "startDate": "2017-09-11T00:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2017-09-11T00:00:01",
+            "mode": "Public",
+            "endDate": "2017-12-16T00:00:01"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework1-Materials-classes",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-Molecular-orbitals",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-Hydrogen-fuel-tanks_a",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework1-Hydrogen-fuel-tanks_b",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework1-Hydrogen-fuel-tanks_c",
+                    "points": 4,
+                    "maxPoints": 4
+                },
+                {
+                    "id": "Homework1-Electron-levels_a",
+                    "points": 4,
+                    "maxPoints": 4
+                },
+                {
+                    "id": "Homework1-Electron-levels_b",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework1-Electron-levels_c",
+                    "points": 3,
+                    "maxPoints": 3
+                },
+                {
+                    "id": "Homework1-Bonding_energy_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-Bonding_energy_b",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-Bonding_energy_c",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-Bonding_energy_d",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-London-dispersion_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework1-London-dispersion_b",
+                    "points": 5,
+                    "maxPoints": 5
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

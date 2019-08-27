@@ -1,0 +1,14 @@
+{
+    "uuid": "ac7bf75a-33d4-4a65-8769-e1fc8069d587",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Mechanics_b", 
+    "topic": "Mechanics", 
+    "type": "Calculation"
+}

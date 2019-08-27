@@ -1,0 +1,14 @@
+{
+    "uuid": "8b76205e-8079-4bbe-b8ed-9d91b1fb3d63",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Enthalpy of Vacancies", 
+    "topic": "Energy of Vacancy Formation", 
+    "type": "Calculation"
+}

@@ -1,0 +1,77 @@
+{
+    "uuid": "4b9baa1e-d7df-47f2-9be4-5609749a285c",
+    "type": "Homework",
+    "title": "Defects, Diffusion",
+    "set": "Homework",
+    "number": "3",
+    "multipleInstance": false,
+    "maxPoints": 55,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2028-10-12T17:00:01",
+            "startDate": "2028-10-02T00:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2028-10-19T00:00:01",
+            "startDate": "2028-10-02T00:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2028-10-02T00:00:01",
+            "mode": "Public",
+            "endDate": "2028-12-17T00:00:01"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework3-interstitial-diffusion",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework3-bulb-gas-diffusion",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework3-bottle-gas-diffusion_a",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework3-bottle-gas-diffusion_b",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework3-vacancy-enthalpy",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework3-vacancy-formation_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework3-vacancy-formation_b",
+                    "points": 5,
+                    "maxPoints": 5
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

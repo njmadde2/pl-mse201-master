@@ -1,0 +1,14 @@
+{
+    "uuid": "a7196fd9-0ba3-4e30-920e-06f923234e9f",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Sodium-chloride-mandelung_a",
+    "topic": "Sodium-chloride-mandelung", 
+    "type": "Calculation"
+}

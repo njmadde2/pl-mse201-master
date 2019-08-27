@@ -1,0 +1,14 @@
+{
+    "uuid": "bf7d356f-06d4-4ee4-8f9a-dc8a2ba92b46",
+    "clientFiles": [
+                    "client.js",
+                    "answer.html",
+                    "question.html"
+                    ],
+    "tags": [
+             "homework"
+             ],
+    "title": "Iron X-ray_c",
+    "topic": "Iron X-ray", 
+    "type": "Calculation"
+}

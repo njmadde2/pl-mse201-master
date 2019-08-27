@@ -1,0 +1,97 @@
+{
+    "allowAccess": [
+                    {
+                    "mode": "Public",
+                    "role": "TA"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":100,
+                    "startDate": "2016-10-27T00:00:01",
+                    "endDate": "2016-11-08T17:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "credit":30,
+                    "startDate": "2016-10-27T00:00:01",
+                    "endDate": "2016-11-15T00:00:01"
+                    },
+                    {
+                    "mode": "Public",
+                    "role": "Student",
+                    "startDate": "2016-10-27T00:00:01",
+                    "endDate": "2016-12-14T00:00:01"
+                    }
+    ],
+    "number": 4,
+     "options": {
+        "allowPractice": false,
+        "maxScore": 35,
+        "questions": [
+                
+                {
+                    "initValue": 2,
+                    "maxScore": 2,
+                    "qid": "Homework4-polymer-mw_a"
+
+                },
+                {
+                    "initValue": 2,
+                    "maxScore": 2,
+                    "qid": "Homework4-polymer-mw_b"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework4-polymer-xtal_a"
+                    
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework4-polymer-xtal_b"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework4-phases-in-equilibrium"
+                      
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework4-eutectic_a"
+                      
+                },
+                {
+                    "initValue": 3,
+                    "maxScore": 3,
+                    "qid": "Homework4-eutectic_b"
+                    
+                },
+                {
+                    "initValue": 3,
+                    "maxScore": 3,
+                    "qid": "Homework4-eutectic_c"
+                    
+                },
+                {
+                    "initValue": 5,
+                    "maxScore": 5,
+                    "qid": "Homework4-variance"
+                    
+                }
+
+                      
+        ],
+        "text": "Be sure to read <a href=\"<% print(clientFile(\"Rules.pdf\")) %>\" target=\"_blank\">this</a>. A <a href=\"<% print(clientFile(\"Matlab.pdf\")) %>\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+    },
+    "set": "Homework",
+    "title": "Polymers, Phase Diagrams",
+    "type": "Game"
+
+}

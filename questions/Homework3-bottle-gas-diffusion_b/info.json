@@ -1,0 +1,14 @@
+{
+    "uuid": "9256ca4e-987a-49e8-b4b5-0fcdcfccf969",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Bottle Gas Diffusion b", 
+    "topic": "Gas Diffusion", 
+    "type": "Calculation"
+}

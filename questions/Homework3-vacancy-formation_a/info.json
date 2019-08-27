@@ -1,0 +1,14 @@
+{
+    "uuid": "4a2258ae-1465-42e6-a7ff-6c9d5275859c",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Vacancy Formation a", 
+    "topic": "Vacancy Formation", 
+    "type": "Calculation"
+}

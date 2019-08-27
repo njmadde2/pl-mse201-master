@@ -1,0 +1,14 @@
+{
+    "uuid": "00e95f79-7431-4ba0-8734-76b7f43372f3",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "FCC-BCC-density_a",
+    "topic": "FCC-BCC-density", 
+    "type": "Calculation"
+}

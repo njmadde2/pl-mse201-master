@@ -1,0 +1,23 @@
+# Computerized-based quiz information
+
+**Please read the following before beginning your quiz.**
+
+1. Your answers must be in decimal format, e.g. enter `0.5` instead of `1/2`. Enter `4E-3` instead of `4*10^-3`.
+2. Your submitted answers will be compared to the true answers. If the answers agree to within
+1% then your submitted answers are deemed correct. For this reason, be sure to carry at least
+three significant figures in your calculations.
+3. Be sure to submit your answers in terms of the given units, e.g. if your answer is 1000N but the
+question requests kN, enter 1 instead of 1000.
+4. When using Matlab, Mathematica and the calculator be weary of the input, e.g. these programs
+use radians instead of degrees.
+5. To determine if your answers for a given problem are correct
+	a. Enter your answers in the appropriate boxes [ ],
+	b. Click on the *Save answer* icon,
+	c. Click on the *Assessment overview* icon,
+	d. Click on the *Grade all saved answers* icon and
+	e. Click on the *Grade* icon that appears in the pop-up-window.
+	
+	The system will inform you if your answers are correct or incorrect. You can grade any question at any time, even if you haven't tried the other questions yet.
+
+6. If an answer is incorrect you can repeat the problem, however your score will be reduced to the amount indicated in the *Current value* column.
+          

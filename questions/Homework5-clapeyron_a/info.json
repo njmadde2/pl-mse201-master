@@ -1,0 +1,15 @@
+{
+    "uuid": "7d4575b7-d7dc-49ab-be83-ecede2ddb105",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html",
+        "ptdiagram.png"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Clapeyron_a", 
+    "topic": "Transformations", 
+    "type": "Calculation"
+}

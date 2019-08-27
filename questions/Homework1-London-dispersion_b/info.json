@@ -1,0 +1,14 @@
+{
+    "uuid": "895daf7a-7aae-48b9-8d3c-9a708115c8a8",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "London Dispersion b", 
+    "topic": "London Dispersion", 
+    "type": "Calculation"
+}

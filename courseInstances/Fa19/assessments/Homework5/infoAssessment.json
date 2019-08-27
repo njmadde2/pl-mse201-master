@@ -1,0 +1,57 @@
+{
+    "uuid": "28cbd236-3447-4d4d-b4cb-0283810d7acf",
+    "type": "Homework",
+    "title": "Mechanics",
+    "set": "Homework",
+    "number": "5",
+    "multipleInstance": false,
+    "maxPoints": 30,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2028-12-11T17:00:00",
+            "startDate": "2028-12-04T11:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2028-12-15T17:00:00",
+            "startDate": "2028-12-04T11:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2028-12-04T11:00:01",
+            "mode": "Public",
+            "endDate": "2028-12-16T17:00:00"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework5-mechanics_a",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework5-mechanics_b",
+                    "points": 10,
+                    "maxPoints": 10
+                },
+                {
+                    "id": "Homework5-mechanics_c",
+                    "points": 10,
+                    "maxPoints": 10
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

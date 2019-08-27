@@ -1,0 +1,14 @@
+{
+    "uuid": "97376075-0992-4d03-8edf-6d5f5c507ada",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Sodium-chloride-madelung_b",
+    "topic": "Sodium-chloride-madelung", 
+    "type": "Calculation"
+}

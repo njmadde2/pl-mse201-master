@@ -1,0 +1,67 @@
+{
+    "uuid": "c87b4c4c-50c7-4aca-b09b-f80404902fdc",
+    "type": "Homework",
+    "title": "Transformations, Mechanics",
+    "set": "Homework",
+    "number": "5",
+    "multipleInstance": false,
+    "maxPoints": 30,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2017-12-13T23:59:01",
+            "startDate": "2017-12-07T14:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2017-12-16T23:59:01",
+            "startDate": "2017-12-07T14:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2017-12-07T14:00:01",
+            "mode": "Public",
+            "endDate": "2017-12-17T23:59:01"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework5-clapeyron_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework5-clapeyron_b",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework5-mechanics_a",
+                    "points": 6,
+                    "maxPoints": 6
+                },
+                {
+                    "id": "Homework5-mechanics_b",
+                    "points": 7,
+                    "maxPoints": 7
+                },
+                {
+                    "id": "Homework5-mechanics_c",
+                    "points": 7,
+                    "maxPoints": 7
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

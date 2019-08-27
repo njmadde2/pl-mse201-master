@@ -1,0 +1,14 @@
+{
+    "uuid": "df17dc24-f63e-4f21-bddb-2897120a80aa",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Materials-classes",
+    "topic": "Materials Classes",
+    "type": "Calculation"
+}

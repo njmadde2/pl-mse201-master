@@ -1,0 +1,14 @@
+{
+    "uuid": "4e81ce72-155c-456c-994c-8f6932659226",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Polymer-Crystals_b",
+    "topic": "Polymer-Crystals", 
+    "type": "Calculation"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "66273fd8-80f5-49fd-89fb-415fb3fb75b6",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Electron levels a", 
+    "topic": "Principal Quantum Number", 
+    "type": "Calculation"
+}

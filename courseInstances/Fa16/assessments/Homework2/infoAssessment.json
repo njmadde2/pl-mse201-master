@@ -1,0 +1,92 @@
+{
+    "uuid": "53e82d9e-39ad-4ba0-9e9a-f3e957ead6b3",
+    "type": "Homework",
+    "title": "Crystals",
+    "set": "Homework",
+    "number": "2",
+    "multipleInstance": false,
+    "maxPoints": 50,
+    "allowAccess": [
+        {
+            "role": "TA",
+            "mode": "Public"
+        },
+        {
+            "role": "Student",
+            "credit": 100,
+            "mode": "Public",
+            "endDate": "2016-09-27T17:00:01",
+            "startDate": "2016-09-15T00:00:01"
+        },
+        {
+            "role": "Student",
+            "credit": 30,
+            "mode": "Public",
+            "endDate": "2016-10-04T00:00:01",
+            "startDate": "2016-09-15T00:00:01"
+        },
+        {
+            "role": "Student",
+            "startDate": "2016-09-15T00:00:01",
+            "mode": "Public",
+            "endDate": "2016-12-14T00:00:01"
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Homework2-iron-xray_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-iron-xray_b",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-iron-xray_c",
+                    "points": 7,
+                    "maxPoints": 7
+                },
+                {
+                    "id": "Homework2-iron-xray_d",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-FCC-BCC-density_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-FCC-BCC-density_b",
+                    "points": 4,
+                    "maxPoints": 4
+                },
+                {
+                    "id": "Homework2-argon-crystal_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-argon-crystal_b",
+                    "points": 4,
+                    "maxPoints": 4
+                },
+                {
+                    "id": "Homework2-sodium-chloride-mandelung_a",
+                    "points": 5,
+                    "maxPoints": 5
+                },
+                {
+                    "id": "Homework2-sodium-chloride-mandelung_b",
+                    "points": 5,
+                    "maxPoints": 5
+                }
+            ]
+        }
+    ],
+    "text": "Be sure to read <a href=\"<%= clientFilesCourse %>/Rules.pdf\" target=\"_blank\">this</a>. A <a href=\"<%= clientFilesCourse %>/Matlab.pdf\" target=\"_blank\">brief guide to MATLAB</a> is also available."
+}

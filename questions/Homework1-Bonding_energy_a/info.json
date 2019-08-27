@@ -1,0 +1,14 @@
+{
+    "uuid": "8d516f3c-1677-4a10-8aad-a8e8d45e9597",
+    "clientFiles": [
+        "client.js", 
+        "answer.html", 
+        "question.html"
+    ], 
+    "tags": [
+        "homework"
+    ], 
+    "title": "Bonding Energy a", 
+    "topic": "Bonding Energy", 
+    "type": "Calculation"
+}

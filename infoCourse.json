@@ -1,0 +1,35 @@
+{
+    "uuid": "86889928-7cec-4b4d-9864-9e8345e54c9b",
+    "name": "MSE 201",
+    "title": "Phases and Phase Relations",
+    "topics": [
+        {"name": "Argon-crystal", "color": "gray1"},
+        {"name": "Bonding Energy", "color": "blue1"},
+        {"name": "Materials Classes", "color": "brown1"},
+        {"name": "Molecular Orbitals", "color": "brown2"},       
+        {"name": "Energy of Vacancy Formation", "color": "purple1"},
+        {"name": "Eutectic-Phase-Diagrams", "color": "green1"},
+        {"name": "FCC-BCC-density", "color": "purple2"},
+        {"name": "Gas Diffusion", "color": "pink3"},
+        {"name": "Gibbs-Phase-Rule", "color": "pink1"},
+        {"name": "Hydrogen-fuel-tanks", "color": "yellow3"},
+        {"name": "Interstitial Diffusion", "color": "turquoise2"},
+        {"name": "Iron X-ray", "color": "brown2"},
+        {"name": "London Dispersion", "color": "gray2"},
+        {"name": "Mechanics", "color": "purple3"},
+        {"name": "Polymer-Crystals", "color": "blue3"},
+        {"name": "Polymer-Molecular-Weight", "color": "red3"},
+        {"name": "Principal Quantum Number", "color": "red2"},
+        {"name": "Sodium-chloride-mandelung", "color": "brown3"},
+		{"name": "Sodium-chloride-madelung", "color": "brown3"},
+        {"name": "Transformations", "color": "blue2"},
+        {"name": "Vacancy Formation", "color": "pink2"},
+        {"name": "iron-xray", "color": "orange2"}
+    ],
+    "tags": [
+        {"name": "homework", "color": "turquoise2"},
+        {"name": "MSE201", "color": "gray1"},
+        {"name": "dtrinkle", "color": "gray1"},
+        {"name": "cecilial", "color": "gray1"}
+    ]
+}

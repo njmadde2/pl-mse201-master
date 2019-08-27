@@ -1,0 +1,19 @@
+{
+    "uuid": "884813d6-4fd4-4510-8b17-537d883126b9",
+    "shortName": "Fa17",
+    "longName": "Fall 2017",
+    "userRoles": {
+        "dtrinkle@illinois.edu": "Instructor",
+        "schleife@illinois.edu": "Instructor",
+        "mwest@illinois.edu": "Instructor",
+        "cecilial@illinois.edu": "Instructor",
+        "rmaass@illinois.edu": "TA",
+        "mkang16@illinois.edu": "TA"
+    },
+    "allowAccess": [
+        {
+            "startDate": "2017-08-28T00:00:01",
+            "endDate": "2017-12-30T23:59:59"
+        }
+    ]
+}
